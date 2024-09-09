@@ -13,7 +13,7 @@ export default function About() {
             <a href="https://github.com/AthulMckell" className="text-pink-500 hover:text-pink-400 transition-colors">
               <Github size={24} />
             </a>
-            <a href="www.linkedin.com/in/athul-raj-m-46337b187" className="text-pink-500 hover:text-pink-400 transition-colors">
+            <a href="https:www.linkedin.com/in/athul-raj-m-46337b187" className="text-pink-500 hover:text-pink-400 transition-colors">
               <Linkedin size={24} />
             </a>
             <a href="mailto:athulraj786@gmail.com" className="text-pink-500 hover:text-pink-400 transition-colors">

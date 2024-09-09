@@ -1,4 +1,4 @@
-'use client';
+"use client";
 import Image from 'next/image'
 import img from '../public/images/img.jpg'
 
@@ -22,5 +22,5 @@ export default function Hero() {
         </button>
       </div>
     </section>
-  )
+  );
 }
